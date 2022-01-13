@@ -14,11 +14,11 @@ case $c in
      ;;
      9)
      echo $c
-     echo "bad luck fomr Japan"
+     echo "bad luck from Japan"
      ;;
      17)
      echo $c
-     echo "bad luck for Italy"
+     echo "bad luck from Italy"
      ;;
      *)
      echo $c
