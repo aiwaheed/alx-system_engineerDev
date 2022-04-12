@@ -8,6 +8,7 @@ import requests
 from sys import argv
 
 if __name__ == '__main__':
+"""Turns all payloads into JSON format"""
     if len(argv) > 1:
         user = argv[1]
         url = "https://jsonplaceholder.typicode.com/"
